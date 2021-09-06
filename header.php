@@ -45,7 +45,7 @@
 						?>
 					</div>
 					<div class="header_top-search">
-						<form action="/" method="get" class="header-search">
+						<form action="http://demo1.elightup.com/khoinguyen" method="get" class="header-search">
 							<input type="hidden" name="post_type" value="product">
 							<input type="text" name="s" id="quick-search" placeholder="Tìm kiếm nhanh...">
 							<div class="btn-search">
